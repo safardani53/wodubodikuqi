@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wodubodikuqi.pages.dev/sitemap.xml
